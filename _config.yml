@@ -1,10 +1,9 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: Minseon Park
+author: Minseon Park
+email: minseonpark00@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A software developer/Major Computer Science in SFSU 
+  샌프란시스코주립대학에서 컴퓨터공학을 전공하고 개발을 하고 있습니다.
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /texture
 
@@ -15,8 +14,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Minseon Park
+  tagline: Developer 
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
