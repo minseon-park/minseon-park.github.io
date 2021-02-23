@@ -1,4 +1,4 @@
-title: Minseon Park
+title: Resume | Minseon Park
 author: Minseon Park
 email: minseonpark00@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -18,13 +18,13 @@ texture:
   tagline: Developer 
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
+  showNav: true
   showPicker: false
 
   # generate social links in footer
   social_links:
 #     twitter: thelehhman
-    github:  https://github.com/minseon-park
+    github:  "https://github.com/minseon-park"
 #     linkedIn: in/thelehhman
     rss: rss
  
@@ -36,6 +36,7 @@ texture:
 
 # Build settings
 theme: texture
+
 
 plugins:
   - jekyll-seo-tag
